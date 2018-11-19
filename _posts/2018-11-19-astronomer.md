@@ -8,7 +8,6 @@ header-img: img/astronomy.jpg
 catalog: true
 tags:
     - Translation
-
 ---
 
 ### NASA astronomer Michelle Thaller on ​the multiple dimensions of space and human sexuality
